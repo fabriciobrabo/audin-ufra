@@ -1,0 +1,279 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28/01/2015, 13:04:52
+    Author     : ufrastic
+*/
+
+body {
+}
+
+p {
+    text-align: justify;
+}
+
+div.headcontent {
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFF;
+    background-color: #008A2E;
+    height: 14px;
+    padding-left: 8px;
+    padding-top: 4px;
+    display: block;
+    text-align: left;
+}
+
+div.conteudo {
+    background-color: #F0F5F5;
+    margin: 0px 0px 5px;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    padding: 10px;
+}
+
+div.banner {
+    margin-top: 5px
+}
+
+a.link {
+    text-decoration: none; 
+    border: 0px none;
+}
+
+div#container {
+    width: 780px;
+    margin: 0px auto;
+    padding-top: 16px;
+    clear: both;
+    background: none repeat scroll 0% 0% #FFF;
+    height: 20px;
+    text-align: left;
+}
+
+div#container div#content {
+    margin-right: 170px;
+    margin-left: 170px;
+    margin-top: 10px;
+    padding: 0px;
+    font: 14px Arial,Helvetica,sans-serif;
+}
+
+div#container div#headerbotton {
+    height: 23px;
+    background-color: #E0EAEA;
+    margin-bottom: 0px;
+    margin-top: -3px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, .5);
+}
+
+div#container div#headerbotton div#data {
+    color: #575757;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 9px;
+    padding: 6px 3px 0px 535px;
+}
+
+div#container div#sidebar1 {
+    float: left;
+    width: 150px;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+div#container div#sidebar1 div#menu {
+    width: 150px;
+    height: auto;
+    padding: 0px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+div#container div#sidebar1 div#menu div#headerMenu {
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFF;
+    background-color: #008A2E;
+    height: 14px;
+    padding-left: 8px;
+    padding-top: 4px;
+    display: block;
+    text-align: left;
+    margin-top: 0px;
+}
+
+div#container div#sidebar1 div#menu ul#menuContent {
+    background-color: #539C78;
+    list-style-type: none;
+    margin-top: 0px;
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc1 {
+    border-bottom: 1px solid #19A347;
+    border-top: 1px solid #94D4A9;
+    margin-left: -39px
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc1 a#a1{
+    border-left: 10px solid #008A2E;
+    font-size: 12px;
+    font-family: Arial,Lucida,Geneva;
+    color: #FFF;    
+    height: 14px;
+    padding: 1px 0px 1px 2px;
+    text-decoration: none;
+    width: 141px;
+    display: block;
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc2 {
+    border-bottom: 1px solid #19A347;
+    border-top: 1px solid #94D4A9;
+    margin-left: -39px
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc2 a#a2{
+    border-left: 10px solid #008A2E;
+    font-size: 12px;
+    font-family: Arial,Lucida,Geneva;
+    color: #FFF; 
+    height: 14px;
+    padding: 1px 0px 1px 2px;
+    text-decoration: none;
+    width: 141px;
+    display: block;
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc3 {
+    border-bottom: 1px solid #19A347;
+    border-top: 1px solid #94D4A9;
+    margin-left: -39px
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc3 a#a3{
+    border-left: 10px solid #008A2E;
+    font-size: 12px;
+    font-family: Arial,Lucida,Geneva;
+    color: #FFF; 
+    height: 14px;
+    padding: 1px 0px 1px 2px;
+    text-decoration: none;
+    width: 141px;
+    display: block;
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc4 {
+    border-bottom: 1px solid #19A347;
+    border-top: 1px solid #94D4A9;
+    margin-left: -39px
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc4 a#a4{
+    border-left: 10px solid #008A2E;
+    font-size: 12px;
+    font-family: Arial,Lucida,Geneva;
+    color: #FFF; 
+    height: 14px;
+    padding: 1px 0px 1px 2px;
+    text-decoration: none;
+    width: 141px;
+    display: block;
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc5 {
+    border-bottom: 1px solid #19A347;
+    border-top: 1px solid #94D4A9;
+    margin-left: -39px
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc5 a#a5{
+    border-left: 10px solid #008A2E;
+    font-size: 12px;
+    font-family: Arial,Lucida,Geneva;
+    color: #FFF; 
+    height: 14px;
+    padding: 1px 0px 1px 2px;
+    text-decoration: none;
+    width: 141px;
+    display: block;
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc6 {
+    border-bottom: 1px solid #19A347;
+    border-top: 1px solid #94D4A9;
+    margin-left: -39px
+}
+
+div#container div#sidebar1 div#menu ul#menuContent li#mc6 a#a6{
+    border-left: 10px solid #008A2E;
+    font-size: 12px;
+    font-family: Arial,Lucida,Geneva;
+    color: #FFF; 
+    height: 14px;
+    padding: 1px 0px 1px 2px;
+    text-decoration: none;
+    width: 141px;
+    display: block;
+}
+
+div#container div#sidebar1 div#leftlinks {
+    height: 225px;
+}
+
+div#container div#sidebar1 div#leftlinks div#headlinks1 {
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFF;
+    background-color: #008A2E;
+    height: 14px;
+    padding-left: 8px;
+    padding-top: 4px;
+    display: block;
+    text-align: left;
+}
+
+div#container div#sidebar2 {
+    float: right;
+    width: 160px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+div#container div#sidebar2 div#headlinks2 {
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFF;
+    background-color: #008A2E;
+    height: 14px;
+    padding-left: 8px;
+    padding-top: 4px;
+    display: block;
+    text-align: left;
+}
+
+div#container div#footer {
+    background-color: #F3F4F9;
+    border-bottom: 1px solid #708090;
+    border-top: 1px solid #708090;
+    height: auto;
+    clear: both;
+}
+
+div#container div#footer p#footerInfo1 {
+    margin: 0px;
+    color: #6A6E77;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    text-align: center;
+}
+
+div#container div#footer p#footerInfo2 {
+    margin: 0px;
+    color: #6A6E77;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    text-align: center;
+}
